@@ -1,7 +1,7 @@
-My presentation 
+My research project 
 ========================================================
 author: Matthias Weiler
-date: 02.03.2019
+date: 18.03.2019
 autosize: true
 
 
@@ -14,4 +14,8 @@ Methods
 
 
 Proposed analyses
+========================================================
+
+
+References
 ========================================================
